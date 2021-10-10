@@ -1,0 +1,21 @@
+{
+  "name": "@tagdown/common",
+  "version": "0.1.0",
+  "description": "The common functionality above the core of the Tagdown lightweight markup language",
+  "keywords": [
+    "tagdown"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Matthijs Steen",
+    "email": "matthijs@matthijssteen.nl"
+  },
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tagdown-lang/common.git"
+  },
+  "dependencies": {
+    "@tagdown/core": "^0.1.0"
+  }
+}
